@@ -25,8 +25,8 @@ The results are saved into a CSV file (`results.csv`).
 
 ## 📦 Requirements
 
-Make sure you have Python **3.8+** installed.  
-selenium
-selenium-stealth
-beautifulsoup4
-pandas
+- Make sure you have Python **3.8+** installed.  
+- selenium
+- selenium-stealth
+- beautifulsoup4
+- pandas
