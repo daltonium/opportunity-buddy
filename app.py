@@ -71,8 +71,10 @@ def main(position, location):
             languages=["en-US", "en"],
             vendor="Google Inc.",
             platform="Win32",
+            # matches a common Intel GPU instead of strange defaults
             webgl_vendor="Intel Inc.",
             renderer="Intel Iris OpenGL Engine",
+            # fixes a subtle rendering difference
             fix_hairline=True,
     )
 
